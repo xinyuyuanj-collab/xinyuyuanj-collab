@@ -20,17 +20,16 @@
 ---
 
 ### 📂 我的作品 / 项目展示
-> 以后你做出了好玩的网页或项目，随时可以在这里补充链接：
 
-- 📌 **极简名片网页 (My Card)**
-  - 说明：我的第一个独立上线网页，响应式毛玻璃卡片风格
-  - 在线体验：👉 [点击立即访问我的网站](https://xinyuyuanj-collab.github.io/my-card/)
-- 📌 **项目一：[项目名称]**
-  - 说明：这是一个用 HTML/CSS 做的静态网页
-  - 在线体验：*(制作完成后放网址)*
-- 📌 **项目二：[项目名称]**
-  - 说明：一个简单的 JavaScript 练手小工具
-  - 在线体验：*(制作完成后放网址)*
+- 🚀 **[极简个人卡片网页 (My Card)](https://github.com/xinyuyuanj-collab/my-card)**
+  - **技术栈**：HTML5 · CSS3 · GitHub Pages 自动化部署
+  - **说明**：响应式现代毛玻璃拟态风格名片，全网可公开访问。
+  - **链接**：👉 [在线访问网页](https://xinyuyuanj-collab.github.io/my-card/) · [查看源码](https://github.com/xinyuyuanj-collab/my-card)
+
+- 🧠 **[GNN 学术节点分类与表征微服务](https://github.com/xinyuyuanj-collab/gnn-fastapi-node-classification)**
+  - **技术栈**：Python · PyTorch Geometric (PyG) · GCN · FastAPI
+  - **说明**：基于双层图卷积网络与经典 Cora 引用网络，封装实现的低延迟分类推理与 512 维向量提取 RESTful API。
+  - **链接**：👉 [查看源码与接口文档截图](https://github.com/xinyuyuanj-collab/gnn-fastapi-node-classification)
 
 ---
 
