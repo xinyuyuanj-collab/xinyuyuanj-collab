@@ -1,16 +1,38 @@
-## Hi there 👋
+# 嗨，我是 xinyuyuanj-collab 👋
 
-<!--
-**xinyuyuanj-collab/xinyuyuanj-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名正在探索技术的开发者 🚀
 
-Here are some ideas to get you started:
+- 🌱 我目前正在学习：**前端开发 / 编程基础**
+- 🎯 我的目标是：**做出漂亮、实用的项目**
+- 💬 可以和我交流：**编程入门、日常交流**
+- 📫 联系我：**xinyuyuanj@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 我的技术栈 (Tech Stack)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📂 我的作品 / 项目展示
+> 以后你做出了好玩的网页或项目，随时可以在这里补充链接：
+
+- 📌 **项目一：[项目名称]**
+  - 说明：这是一个用 HTML/CSS 做的静态网页
+  - 在线体验：*(制作完成后放网址)*
+- 📌 **项目二：[项目名称]**
+  - 说明：一个简单的 JavaScript 练手小工具
+  - 在线体验：*(制作完成后放网址)*
+
+---
+
+### 📊 我的 GitHub 动态
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xinyuyuanj-collab&show_icons=true&theme=radical" alt="GitHub 统计" />
+</p>
