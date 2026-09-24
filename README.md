@@ -1,24 +1,24 @@
 # 嗨，我是 果酱配稀饭 👋
 
-一名专注于 **Python 后端开发 · 图深度学习 (GNN) · 商业数据分析** 的全栈探索者 🚀
+一名通过**项目实战驱动学习**的技术探索者 🚀
 
-- 🔭 **技术方向**：致力于构建端到端的 AI 算法微服务与高商业价值的数据工程系统
-- 🌱 **核心技术栈**：深度使用 **FastAPI / PyTorch (PyG) / Pandas / 高阶 SQL**
-- 💬 **交流方向**：欢迎交流图神经网络应用、后端 API 架构设计、商业 BI 建模
+- 🔭 **实践方向**：通过端到端的小项目落地 Web 网页、Python 后端接口及数据可视化分析
+- 🌱 **学习状态**：持续通过做真实作品来打磨代码基础与工程习惯
+- 💬 **交流方向**：欢迎交流编程学习心得、实用小工具开发及数据分析实践
 - 📫 **联系我**：[xinyuyuanj@gmail.com](mailto:xinyuyuanj@gmail.com)
 
 ---
 
-### 🛠 我的技术栈 (Tech Stack)
+### 🛠 项目使用的工具与技术 (Tools Used in Projects)
 
-<!-- 核心语言与后端框架 -->
+<!-- 编程语言与后端框架 -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<!-- 前端与基础工程工具 -->
+<!-- 前端基础与工程工具 -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
